@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gratitude card on monty.net/gratitude
+          monty.net/gratitude
         </a>
       </header>
     </div>
