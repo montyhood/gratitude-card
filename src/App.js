@@ -1,13 +1,22 @@
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://files.outfit.io/media_library_items/349582/gratitude-bg-option1-withtext.png" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This site will be live shortly.
+          Edit <code>src/App.js</code> and save to change this something.
         </p>
+        <a
+          className="App-link"
+          href="https://monty.net/gratitude"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Gratitude card
+        </a>
       </header>
     </div>
   );
