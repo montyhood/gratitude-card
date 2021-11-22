@@ -17,3 +17,23 @@
   color: #0000ff;
   font-size: 10px;
 }
+
+.row {
+  font-size: 18px;
+  width: 30%;
+}
+
+.App-logo {
+  width: 580px;
+}
+
+@media (max-width: 600px) {
+
+  .App-logo {
+    width: 100%;
+  }
+
+  .text-field {
+    width: 80%;
+  }
+}
