@@ -1,11 +1,11 @@
-import exampleimage from './components/gratitude-bg-option1-withtext.png';
+import logo from './components/gratitude-bg-option1-withtext.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={exampleimage} className="App-logo" alt="example image" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to change this something.
         </p>
