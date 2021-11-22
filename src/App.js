@@ -5,18 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://files.outfit.io/media_library_items/349582/gratitude-bg-option1-withtext.png" />
         <p>
-          Edit <code>src/App.js</code> and save to change this something.
-        </p>
+          This will be live shortly. In the meantime, test out the app&nbsp;
         <a
           className="App-link"
           href="https://monty.net/gratitude"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gratitude card
+           here.
         </a>
+        </p>
       </header>
     </div>
   );
